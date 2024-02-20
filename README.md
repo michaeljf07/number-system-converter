@@ -1,2 +1,3 @@
 # number-system-converter
-Number System Converter
+
+This program enables the user to convert in between the major number systems: decimal, binary, and hexadecimal.
